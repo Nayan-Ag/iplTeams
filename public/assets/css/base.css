@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.foot-nav{
+
+}
+.foot-nav > ul{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;
+}
+.foot-nav > ul > li{
+  padding: 0px 0.4rem;
+  color: white;
+}
+.footer{
+  color: white;
+  padding-left: 3rem;
+  display: flex;
+  height: 3rem;
+  align-items: center;
+}

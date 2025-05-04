@@ -1,0 +1,42 @@
+.foot-nav {
+  background-color: #304c94;
+}
+.footer {
+  background-color: #182464;
+}
+
+.match-preview-container {
+  background: #f9f9f9;
+}
+.left-section {
+  background: #011f5b;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.left-section .date {
+  color: #ccc;
+}
+.dot {
+  background: #ccc;
+}
+.dot.active {
+  background: #f7b500;
+}
+.arrow-buttons button {
+  background: #f7b500;
+  color: black;
+}
+.match-overlay {
+  color: white;
+}
+.social-icons {
+  background: #001133;
+}
+.social-icons a {
+  color: white;
+}
+
+.social-icons a:hover {
+  color: #f7b500;
+}
